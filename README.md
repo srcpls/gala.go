@@ -2,8 +2,9 @@
 play go with gala.go
 
 ## about
-gala.go is a project I am working on to (hopefully) eventually serve as a sort of playing field for a terrible go playing program called gala.go.  
+gala.go is a application for playing go which will (hopefully) eventually serve as a sort of playing field for a go playing program called gala.go.
 
+*****currently sort of works
 
 ## features as of now
    * stone grouping
