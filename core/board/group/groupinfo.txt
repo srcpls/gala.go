@@ -1,0 +1,1 @@
+the class group contains a vector of coordinates and is used to represent a group of stones(or coordinates). a group must be initialized with an integer value for the color of the group, again 1 for black, 2 for white. information about the member functions of the class can be found within the documentation on group.hpp.
