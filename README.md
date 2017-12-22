@@ -4,10 +4,8 @@ play go with gala.go
 ## about
 gala.go is a application for playing go which will (hopefully) eventually serve as a sort of playing field for a go playing program called gala.go.
 
-*****currently sort of works
-
 ## features as of now
-   * stone grouping
+   * stone placing and grouping
    * grouping of empty space(which should help in determining territory if playing by japanese rules)
    * group capturing
    * simple console representation of the board
