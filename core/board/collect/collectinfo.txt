@@ -1,0 +1,1 @@
+the class collect contains a vector of groups and is used to represent all of the groups on the board, and is a private member of every board object. collect also allows manipulation of the groups such as merging, deleting, etc.
