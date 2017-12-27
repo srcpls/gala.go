@@ -2,7 +2,7 @@
 play go with gala.go
 
 ## about
-gala.go is a application for playing go which will (hopefully) eventually serve as a sort of playing field for a go playing program called gala.go.
+gala.go is an application for playing go which will (hopefully) eventually serve as a sort of playing field for a go playing program called gala.go.
 
 ## features as of now
    * stone placing and grouping
